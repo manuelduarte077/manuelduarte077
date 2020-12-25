@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/manuelduarte077?logo=GitHub&style=for-the-badge)
 
 
-- 🌱 I’m currently learning **Flutter, Kotlin**
+- 🌱 I’m currently learning **Flutter, Kotlin, React Native**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
