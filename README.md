@@ -47,6 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuelduarte077&show_icons=true&theme=vue&line_height=45" />
 
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&count_private=true&theme=vue&line_height=52">
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&count_private=true&theme=vue&line_height=55">
 </p>
 
