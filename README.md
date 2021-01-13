@@ -12,6 +12,7 @@
 
 ### Connect with me:
 
+
 <p><a href="https://www.twitter.com/manuelduarte077"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/manuelduarte077/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/manuelduarte077/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://youtube.com/hardsoftday"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" height=25></a> </p>
 
 
@@ -41,10 +42,11 @@
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/></code>
 
 
-
 <h3 align="center">GITHUB STATS<hr/></h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&hide=html" alt="manuelduarte077" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&line_height=45" />
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=manuelduarte077&amp;show_icons=true" alt="GitHub Stats"></p>
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&count_private=true&theme=dracula&line_height=52">
+</p>
 
