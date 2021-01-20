@@ -45,8 +45,9 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelduarte077&show_icons=true&theme=vue&line_height=45" />
-
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&count_private=true&theme=vue&line_height=45">
+<a href="https://github.com/mazdakpak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
+</a>
 </p>
 
