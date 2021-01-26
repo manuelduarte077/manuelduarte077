@@ -3,8 +3,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/manuelduarte077?label=manuelduarte077&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/manuelduarte077?logo=GitHub&style=for-the-badge)
-[![views](https://komarev.com/ghpvc/?username=manuelduarte077&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/manuelduarte077/)
 
+<!-- 
+  [![views](https://komarev.com/ghpvc/?username=manuelduarte077&  label=Profile%20views&color=fe75a9&style=flat)](https://github.com/   manuelduarte077/)
+-->
 
 
 - 🌱 I’m currently learning **Kotlin, Flutter, React Native, Node JS**
@@ -45,7 +47,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
-
-[![views](https://komarev.com/ghpvc/?username=manuelduarte077&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/manuelduarte077/)
-<br />
