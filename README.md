@@ -8,7 +8,8 @@
   [![views](https://komarev.com/ghpvc/?username=manuelduarte077&  label=Profile%20views&color=fe75a9&style=flat)](https://github.com/   manuelduarte077/)
 -->
 
--     I'm from Nicaragua
+
+
 - 🌱 I’m currently learning **Kotlin, Flutter, React Native, Node JS**
 - 👯 I’m looking to collaborate with **other content creators**
 
