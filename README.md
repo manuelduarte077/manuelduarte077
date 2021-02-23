@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Duarte</h1>
-<h3 align="center">A self-taught programmer😜</h3>
+<h3 align="center">Mobile developer in training😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/manuelduarte077?label=manuelduarte077&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/manuelduarte077?logo=GitHub&style=for-the-badge)
@@ -8,21 +8,22 @@
   [![views](https://komarev.com/ghpvc/?username=manuelduarte077&  label=Profile%20views&color=fe75a9&style=flat)](https://github.com/   manuelduarte077/)
 -->
 
-- 🌱 I’m currently learning **Kotlin, Flutter, React Native, Node JS**
+- 🌱 I’m currently learning **Laravel, Django, Node JS, Kotlin, Flutter**
 - 👯 I’m looking to collaborate with **other content creators**
 
 ### Connect with me 👇:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuelduarte077/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/manuelduarte077)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/hardsoftday)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/manuelduarte077/)
+<!-- [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/hardsoftday) -->
 
 
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code>  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> </code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="dart" width="22" height="22"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> 
 <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
