@@ -5,6 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/manuelduarte077?logo=GitHub&style=for-the-badge)
 
 
+<img src="https://raw.githubusercontent.com/manuelduarte077/manuelduarte077/main/resources/banner.png" alt="Hello world">
+
 * 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚**
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile Developer & Backed Developer 💻 
