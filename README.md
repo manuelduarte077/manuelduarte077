@@ -7,7 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/manuelduarte077/manuelduarte077/main/resources/banner.png" alt="Hello world">
 
-* 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚**
+
+* 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚, Laravel ❤️**
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
