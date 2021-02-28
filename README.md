@@ -7,7 +7,7 @@
 
 * 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚**
 * 📱 Mobile Developer & Backed Developer 💻 
-* 📱 Mobile App Developer ❤️Android 🌎 & Backed Developer 💻 
+* 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
 
