@@ -11,9 +11,9 @@
 * 📝 Open Source Contributor
 
 ### Find me at 🤖 👇:
-[![Twitter](https://img.shields.io/badge/Twitter-@manuelduarte077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
+[![Twitter](https://img.shields.io/badge/Twitter-@manuelduarte077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/manuelduarte077)
+[![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelduarte077)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuelduarte077)
 
 **Skills::**
 
