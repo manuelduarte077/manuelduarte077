@@ -23,8 +23,8 @@
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![intellij-idea](https://img.shields.io/badge/intellij-idea-3DDC84?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
-[![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-3DDC84?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+[![intellij-idea](https://img.shields.io/badge/intellij-idea-5e2495?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-0071BC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
