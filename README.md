@@ -22,7 +22,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 </br>
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![intellij-idea](https://img.shields.io/badge/intellij-idea-3DDC84?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-3DDC84?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 </br>
@@ -32,10 +32,10 @@
 [![PHP](https://img.shields.io/badge/PHP-A349A4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-2f6997?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node-JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![ReactJs](https://img.shields.io/badge/React.JS-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![ReactJs](https://img.shields.io/badge/React-JS-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
