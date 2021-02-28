@@ -9,7 +9,8 @@
 -->
 
 - 🌱 I’m currently learning **Kotlin, Flutter, React Native, Django, Node JS**
-- 👯 I’m looking to collaborate with **other content creators**
+* 📱 Mobile Developer & Backed Developer 💻 
+* 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) and [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 
 ### Connect with me 👇:
 
