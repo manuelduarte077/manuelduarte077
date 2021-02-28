@@ -8,7 +8,7 @@
   [![views](https://komarev.com/ghpvc/?username=manuelduarte077&  label=Profile%20views&color=fe75a9&style=flat)](https://github.com/   manuelduarte077/)
 -->
 
-* 🌱 I’m currently learning **Kotlin, Flutter, React Native, Django, Node JS**
+* 🌱 I’m currently learning **Kotlin, Flutter💙, React Native, Django, Node JS**
 * 📱 Mobile Developer & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) and [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
