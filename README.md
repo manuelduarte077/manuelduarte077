@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Duarte</h1>
 <h3 align="center">Mobile developer in training😜</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/manuelduarte077?label=manuelduarte077&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/manuelduarte077?logo=GitHub&style=for-the-badge)
-
-
 <img src="https://raw.githubusercontent.com/manuelduarte077/manuelduarte077/main/resources/banner.png" alt="Hello world">
 
 
@@ -14,7 +10,7 @@
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
 
-### Connect with me 🤖 👇:
+### Find me at 🤖 👇:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuelduarte077/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/manuelduarte077)
@@ -38,8 +34,9 @@
 [![Python](https://img.shields.io/badge/Python-2f6997?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![ReactJs](https://img.shields.io/badge/React.JS-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
@@ -55,3 +52,5 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
+
+## Contact me:
