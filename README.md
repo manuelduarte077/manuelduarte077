@@ -11,11 +11,9 @@
 * 📝 Open Source Contributor
 
 ### Find me at 🤖 👇:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuelduarte077/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/manuelduarte077)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/manuelduarte077/)
-
+[![Twitter](https://img.shields.io/badge/Twitter-@manuelduarte077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
 
 **Skills::**
 
@@ -54,3 +52,4 @@
 </p>
 
 ## Contact me:
+[![Email](https://img.shields.io/badge/carlosd99m@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carlosd99m@gmail.com)
