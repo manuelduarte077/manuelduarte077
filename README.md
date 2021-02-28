@@ -4,21 +4,17 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/manuelduarte077?label=manuelduarte077&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/manuelduarte077?logo=GitHub&style=for-the-badge)
 
-<!-- 
-  [![views](https://komarev.com/ghpvc/?username=manuelduarte077&  label=Profile%20views&color=fe75a9&style=flat)](https://github.com/   manuelduarte077/)
--->
 
-* 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native, Node JS💚**
+* 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚**
 * 📱 Mobile Developer & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) and [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
 
-### Connect with me 👇:
+### Connect with me 🤖 👇:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuelduarte077/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/manuelduarte077)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/manuelduarte077/)
-<!-- [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/hardsoftday) -->
 
 
 **Languages and Tools:**
