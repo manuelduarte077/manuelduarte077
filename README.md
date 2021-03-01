@@ -3,10 +3,10 @@
 
 <img src="https://raw.githubusercontent.com/manuelduarte077/manuelduarte077/main/resources/banner.png" alt="Hello world">
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="450px"  />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px"  />
 
 * 💬 I'm a mobile and backend developer and another skills
-* 🌱 Skills  **Kotlin💛, Flutter💙, React Native💜, Node JS💚, Laravel ❤️**
+* 🌱 Skills: **Kotlin💛, Flutter💙, React Native💜, Node JS💚, Laravel ❤️**
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
