@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px"  height="370px"/>
 
-* 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚, Laravel ❤️**
+* 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚**
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
