@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px"  />
 
-* 💬 I'm a mobile and backend developer and another skills
+* 💬 I am a mobile & backend developer and other skills
 * 🌱 Skills: **Kotlin💛, Flutter💙, React Native💜, Node JS💚, Laravel ❤️**
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
