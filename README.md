@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/manuelduarte077/manuelduarte077/main/resources/banner.png" alt="Hello world">
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px"  />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="450px"  />
 
 * 🌱 I’m currently learning **Kotlin💛, Flutter💙, React Native💜, Node JS💚**
 * 👨‍💻 #SelfTaught Developer
