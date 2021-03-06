@@ -38,10 +38,8 @@
 [![Dart](https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-A349A4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-2f6997?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node-JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![ReactJs](https://img.shields.io/badge/React-JS-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
