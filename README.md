@@ -6,16 +6,16 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px"  />
 
 * 💬 I am a mobile & backend developer and other skills
-* 🌱 Skills: **Kotlin💛, Flutter💙, React Native💜, Node JS💚, Laravel ❤️**
+* 🌱 Skills: **Kotlin💛, Flutter💙, React Native💜, Laravel ❤️**
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📚 Mentor @SlilmaCode
 * 📝 Open Source Contributor
 * 💬 Ask me about Android Dev & Open Source & UI Design
-* 👨‍💻 All of my projects are available here
 * 👯 I’m looking to collaborate on any Android Projects
 * 🤔 I'm looking for help to improve my android service and architectural knowledge
+* 🥅 2020 Goals: Contribute more to Open Source projects
 * 🌱 I love to learn new things and ready to help others
 
 ### Find me at 🤖 👇:
