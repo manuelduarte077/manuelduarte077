@@ -15,7 +15,7 @@
 * 💬 Ask me about Android Dev & Open Source & UI Design
 * 👯 I’m looking to collaborate on any Android Projects
 * 🤔 I'm looking for help to improve my android service and architectural knowledge
-* 🥅 2020 Goals: Contribute more to Open Source projects
+* 🥅 2021 Goals: Contribute more to Open Source projects
 * 🌱 I love to learn new things and ready to help others
 
 ### Find me at 🤖 👇:
