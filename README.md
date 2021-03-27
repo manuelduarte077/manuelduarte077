@@ -40,13 +40,12 @@
 [![PHP](https://img.shields.io/badge/PHP-A349A4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![PYTHON](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)]()
 </br>
+[![Django](https://img.shields.io/badge/Django-0cc4b33?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node-JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![ReactJs](https://img.shields.io/badge/React-JS-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Django](https://img.shields.io/badge/Django-0cc4b33?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
+[![ReactNative](https://img.shields.io/badge/ReactNative-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-teal?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
