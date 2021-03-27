@@ -43,7 +43,7 @@
 [![Django](https://img.shields.io/badge/Django-0cc4b33?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node-JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![ReactNative](https://img.shields.io/badge/ReactNative-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![ReactNative](https://img.shields.io/badge/React-Native-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-teal?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
