@@ -53,9 +53,9 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula" alt="manuelduarte077" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula" alt="manuelduarte077" />
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="manuelduarte077" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="manuelduarte077" />
 </p>
 
 ## Contact me:
