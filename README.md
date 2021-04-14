@@ -30,10 +30,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 </br>
-[![Android_Studio](https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![intellij-idea](https://img.shields.io/badge/intellij-idea-5e2495?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)]()
-[![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-0071BC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
-</br>
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -43,7 +39,7 @@
 [![Django](https://img.shields.io/badge/Django-0cc4b33?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node-JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![ReactNative](https://img.shields.io/badge/React-Native-3b8ba5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![ReactNative](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-teal?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
