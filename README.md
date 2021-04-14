@@ -53,7 +53,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
   </a>  
   
-  ![](https://activity-graph.herokuapp.com/graph?username=manuelduarte077&theme=github)
+ <!-- ![](https://activity-graph.herokuapp.com/graph?username=manuelduarte077&theme=github) -->
 
 </p>
 
