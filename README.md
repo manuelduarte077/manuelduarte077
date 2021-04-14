@@ -10,7 +10,6 @@
 * 👨‍💻 #SelfTaught Developer
 * 📱 Mobile App Developer ❤️Android & Backed Developer 💻 
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
-* 📚 Mentor @SlilmaCode
 * 📝 Open Source Contributor
 * 💬 Ask me about Android Dev & Open Source & UI Design
 * 👯 I’m looking to collaborate on any Android Projects
@@ -23,7 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelduarte077)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuelduarte077)
 
-**Skills::**
+**Skills 🚀**
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -32,7 +31,7 @@
 </br>
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-A349A4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![PYTHON](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)]()
 </br>
@@ -49,10 +48,12 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-<a href="https://github.com/manuelduarte077">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+  <a href="https://github.com/manuelduarte077">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
+  </a>  
+  ![](https://activity-graph.herokuapp.com/graph?username=manuelduarte077&theme=github)
+
 </p>
 
        
