@@ -10,7 +10,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300px"  />
 
 <br>
-<br>
 
 * 💬 I am a mobile & backend developer and other skills
 * 🌱 Skills: **Kotlin💛, Flutter💙, React Native💜, Laravel ❤️**
@@ -20,7 +19,7 @@
 * 🌱 I love to learn new things and ready to help others
 
 
-
+<br>
 <br>
 <br>
 
@@ -33,7 +32,7 @@
 
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-</br>
+</>
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 </br>
