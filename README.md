@@ -12,12 +12,11 @@
 <br>
 
 * 💬 I am a mobile & backend developer and other skills
-* 🌱 Skills: **Kotlin💛, Flutter💙, React Native💜, Laravel ❤️**
+* 🌱 Skills: **Kotlin💛, Flutter💙, Django**
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
 * 🥅 2021 Goals: Contribute more to Open Source projects
 * 🌱 I love to learn new things and ready to help others
-
 
 <br>
 <br>
@@ -46,7 +45,6 @@
 </br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-A349A4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![PYTHON](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)]()
 
 
