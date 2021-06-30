@@ -12,7 +12,7 @@
 <br>
 
 * 💬 I am a mobile & backend developer and other skills
-* 🌱 Skills: **Kotlin💛, Flutter💙, Django**
+* 🌱 Skills: **Kotlin💜, Flutter💙, NodeJS💚 *
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
 * 🥅 2021 Goals: Contribute more to Open Source projects
