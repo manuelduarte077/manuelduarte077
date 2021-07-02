@@ -36,7 +36,6 @@
 </br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
-[![Xamarin](https://img.shields.io/badge/Xamarin-0095D5?style=for-the-badge&logo=Xamarin&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
