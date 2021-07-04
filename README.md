@@ -37,13 +37,14 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 </br>
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Dart](https://img.shields.io/badge/DART-306998?style=for-the-badge&logo=DART&logoColor=white&labelColor=101010)]()
+</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Dart](https://img.shields.io/badge/DART-306998?style=for-the-badge&logo=DART&logoColor=white&labelColor=101010)]()
+
 
 
 <h3 align="center">GITHUB STATS<hr/></h3>
