@@ -12,7 +12,7 @@
 <br>
 
 * 💬 I am a mobile & backend developer and other skills
-* 🌱 Skills: **Kotlin💜, Flutter💙, NodeJS💚**
+* 🌱 Skills: **Kotlin💜, ReactNative💙, NodeJS💚**
 * 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 * 📝 Open Source Contributor
 * 🥅 2021 Goals: Contribute more to Open Source projects
@@ -27,10 +27,12 @@
 
 **Skills 🚀**
 
+
 [![](https://img.shields.io/badge/React-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=Angular&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 </br>
+[![](https://img.shields.io/badge/Android-78C257?style=for-the-badge&logo=Android&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
 [![](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
-[![](https://img.shields.io/badge/flutter-3399ff?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
 </br>
 [![](https://img.shields.io/badge/NodeJS-306E17?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)](https://nodejs.org/)
 [![](https://img.shields.io/badge/NestJS-E0374E?style=for-the-badge&logo=nestjs&logoColor=22272E&labelColor=f0f0f0)](https://nestjs.com/)
@@ -38,7 +40,7 @@
 </br>
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
-[![Dart](https://img.shields.io/badge/DART-306998?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
+[![JAVA](https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=JAVA&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 [![](https://img.shields.io/badge/Mongodb-53A34E?style=for-the-badge&logo=mongodb&logoColor=22272E&labelColor=f0f0f0)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
