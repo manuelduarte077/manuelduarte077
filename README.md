@@ -29,14 +29,9 @@
 
 
 [![](https://img.shields.io/badge/React-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=Angular&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 </br>
 [![](https://img.shields.io/badge/Android-78C257?style=for-the-badge&logo=Android&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
-[![](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)](https://kotlin.com/)
-</br>
-[![](https://img.shields.io/badge/NodeJS-306E17?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)](https://nodejs.org/)
-[![](https://img.shields.io/badge/NestJS-E0374E?style=for-the-badge&logo=nestjs&logoColor=22272E&labelColor=f0f0f0)](https://nestjs.com/)
-[![](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=22272E&labelColor=f0f0f0)](https://django.com/)
+[![](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)](https://kotlin.com/)[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://kotlin.com/)
 </br>
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
