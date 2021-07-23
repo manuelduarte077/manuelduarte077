@@ -11,29 +11,31 @@
 
 <br>
 
-* 💬 I am a mobile & backend developer and other skills
-* 🌱 Skills: **Kotlin💜, Flutter💙, NodeJS💚**
-* 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
-* 📝 Open Source Contributor
-* 🥅 2021 Goals: Contribute more to Open Source projects
-* 🌱 I love to learn new things and ready to help others
+- 💬 I am a mobile & backend developer
+- 📱 I’m currently working on Flutter apps
+- 📚 I’m currently learning Dart & Flutter
+- 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
+- 📝 Open Source Contributor
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I love to learn new things and ready to help others
 
 <br>
 
 ### Find me at 🤖 👇:
+
 [![Twitter](https://img.shields.io/badge/Twitter-@manuelduarte077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/manuelduarte077)
 [![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelduarte077)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuelduarte077)
 
 **Skills 🚀**
 
-
-[![](https://img.shields.io/badge/React-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)]()
+[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
 </br>
-[![](https://img.shields.io/badge/Android-78C257?style=for-the-badge&logo=Android&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
-[![](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)](https://kotlin.com/)[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://kotlin.com/)
+[![](https://img.shields.io/badge/ReactJS-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
+[![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 </br>
-[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
+[![Go](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=22272E&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
@@ -41,9 +43,9 @@
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
+
 <!-- [![](https://img.shields.io/badge/docker-022D66?style=for-the-badge&logo=docker&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/aws-e16133?style=for-the-badge&logo=amazon&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/) -->
-
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
