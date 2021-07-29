@@ -35,7 +35,7 @@
 [![](https://img.shields.io/badge/ReactJS-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 [![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 </br>
-[![Go](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=22272E&labelColor=f0f0f0)]()
+[![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
@@ -43,6 +43,8 @@
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
+
+<!-- [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]() -->
 
 <!-- [![](https://img.shields.io/badge/docker-022D66?style=for-the-badge&logo=docker&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/aws-e16133?style=for-the-badge&logo=amazon&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/) -->
