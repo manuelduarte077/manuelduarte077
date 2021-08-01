@@ -27,27 +27,25 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelduarte077)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuelduarte077)
 
-**Skills 🚀**
+## **Skills 🚀**
 
-[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)]()
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
 </br>
-[![](https://img.shields.io/badge/ReactJS-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
-[![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
-[![](https://img.shields.io/badge/Mongodb-53A34E?style=for-the-badge&logo=mongodb&logoColor=22272E&labelColor=f0f0f0)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
+[![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
-
-<!-- [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]() -->
-
-<!-- [![](https://img.shields.io/badge/docker-022D66?style=for-the-badge&logo=docker&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/aws-e16133?style=for-the-badge&logo=amazon&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/) -->
+And more...
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
