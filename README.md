@@ -35,7 +35,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=22272E&labelColor=f0f0f0)]()
 [![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
