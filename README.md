@@ -21,7 +21,7 @@
 
 <br>
 
-### Find me at 🤖 👇:
+## Find me at 🤖 👇:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@manuelduarte077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/manuelduarte077)
 [![Instagram](https://img.shields.io/badge/Instagram-@manuelduarte077-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelduarte077)
@@ -29,10 +29,10 @@
 
 ## **Skills 🚀**
 
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=22272E&labelColor=f0f0f0)]()
 [![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=22272E&labelColor=f0f0f0)]()
 [![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)]()
@@ -42,7 +42,7 @@
 </br>
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=22272E&labelColor=f0f0f0)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 And more...
