@@ -37,13 +37,25 @@
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
-[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
+[![Python](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 And more...
+
+
+
+## 📚 Last Post
+
+<!-- YT:START -->
+- [Tuplas en Python](https://dev.to/manuelduarte077/tuplas-en-python-tuple-5e52)
+- [Learn Go in 8 minutes ](https://dev.to/manuelduarte077/learn-go-in-8-minutes-59ph)
+- [¿Como hacer un Deploy a Firebase Hosting?](https://dev.to/manuelduarte077/como-hacer-un-deploy-a-firebase-hosting-1d1j)
+- [Instalación de Docker en Ubuntu](https://dev.to/manuelduarte077/instalacion-de-docker-en-ubuntu-4mhf)
+- [Diccionarios en Python](https://dev.to/manuelduarte077/diccionarios-en-python-4h3n)
+<!-- YT:END -->
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
