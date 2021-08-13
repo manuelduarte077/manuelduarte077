@@ -42,7 +42,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
-[![](https://img.shields.io/badge/VUEJS-42b883?style=for-the-badge&logo=vue.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 </br>
 And more...
 
