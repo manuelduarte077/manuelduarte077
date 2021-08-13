@@ -37,7 +37,7 @@
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
-[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=22272E&labelColor=f0f0f0)]()
+[![Python](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=22272E&labelColor=f0f0f0)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
 [![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
