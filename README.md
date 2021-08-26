@@ -29,22 +29,21 @@
 
 ## **Skills 🚀**
 
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=22272E&labelColor=f0f0f0)]()
-[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0)](https://flutter.dev/)
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=999999&labelColor=f0f0f0)]()
+[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=0095D5&labelColor=f0f0f0)](https://flutter.dev/)
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=22272E&labelColor=f0f0f0)]()
-[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=22272E&labelColor=f0f0f0)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=A4C639&labelColor=f0f0f0)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=d73cea&labelColor=f0f0f0)]()
 </br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
-[![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=22272E&labelColor=f0f0f0)]()
-[![Python](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=22272E&labelColor=f0f0f0)]()
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=f0f0f0)
+[![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=0075BA&labelColor=f0f0f0)]()
+[![Golang](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=29BEB0&labelColor=f0f0f0)]()
 </br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)]()
-[![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
-[![](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=f0f0f0)]()
+[![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=ffa611&labelColor=f0f0f0)]()
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs&logoColor=e0234e&labelColor=f0f0f0)
 </br>
 And more...
-
 
 
 ## 📚 Last Post
