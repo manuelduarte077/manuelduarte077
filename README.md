@@ -19,6 +19,7 @@
 - 🌱 I love to learn new things and ready to help others
 
 <br>
+
 ## Find me at 🤖 👇:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
