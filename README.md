@@ -34,9 +34,9 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=A4C639&labelColor=f0f0f0)]()
 [![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=d73cea&labelColor=f0f0f0)]()
 </br>
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=007acc&labelColor=f0f0f0)
+[![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)]()
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=0075BA&labelColor=f0f0f0)]()
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=f0f0f0)]()
+[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=306998&labelColor=f0f0f0)]()
 </br>
 [![](https://img.shields.io/badge/Xamarin-2196f3?style=for-the-badge&logo=xamarin&logoColor=blue&labelColor=f0f0f0)]()
 
