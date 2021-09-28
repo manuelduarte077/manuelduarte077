@@ -24,21 +24,21 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manuelduarte077)
-[![Twitter](https://img.shields.io/badge/DevTO-080808?style=for-the-badge&logo=dev.to&logoColor=white)](https://twitter.com/manuelduarte077)
+[![DevTO](https://img.shields.io/badge/DevTO-080808?style=for-the-badge&logo=dev.to&logoColor=white)](https://twitter.com/manuelduarte077)
 
 ## **Skills 🚀**
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=999999&labelColor=f0f0f0)]()
-[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=0095D5&labelColor=f0f0f0)](https://flutter.dev/)
-</br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=A4C639&labelColor=f0f0f0)]()
-[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=d73cea&labelColor=f0f0f0)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=d73cea&labelColor=f0f0f0)]()
+</br>
 [![Dart](https://img.shields.io/badge/DART-0075BA?style=for-the-badge&logo=DART&logoColor=0075BA&labelColor=f0f0f0)]()
-[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=306998&labelColor=f0f0f0)]()
+[![](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=0095D5&labelColor=f0f0f0)](https://flutter.dev/)
 </br>
 [![](https://img.shields.io/badge/Xamarin-2196f3?style=for-the-badge&logo=xamarin&logoColor=blue&labelColor=f0f0f0)]()
+</br>
 
 
 </br>
@@ -60,6 +60,6 @@ And more...
 <p align="center">
   <a href="https://github.com/manuelduarte077">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
   </a>  
 </p>
