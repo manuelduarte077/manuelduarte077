@@ -1,7 +1,9 @@
 # Manuel Duarte 🤖
 
-- 💬 Mobile Developer
-- 📱 I am currently working on apps Flutter and Xamarin
+- 💬 Software Developer at NetSoftNic, Nicaragua
+- | *#MobileDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Xamarin 💚  |
+- 🏢 &nbsp; I'm currently working at [NetSoftNic]()
+- 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
 - 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 - 📝 Open Source Contributor
 - 👨🏻‍💻 I love to learn new things and ready to help others
