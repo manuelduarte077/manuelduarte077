@@ -1,10 +1,9 @@
 # Manuel Duarte 🤖
 
-- 💬 Software Developer at NetSoftNic, Nicaragua
-- | *#MobileDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; |
+- 💬 Mobile Developer
+- | *#MobileDev* | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; |
 - 🏢 &nbsp; I'm currently working at [NetSoftNic]()
 - 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
-- 🚀 Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) & [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 - 📝 Open Source Contributor
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
@@ -30,8 +29,8 @@ And more...
 
 <p align="center">
   <a href="https://github.com/manuelduarte077">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=vue&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=vue&count_private=true"/>
   </a>  
 </p>
 
