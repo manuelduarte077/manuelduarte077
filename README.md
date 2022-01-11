@@ -1,11 +1,11 @@
-# Manuel Duarte 🤖
+# Manuel Duarte 🤖 
 
 - 💬 Mobile Developer
 - | *#MobileDev* | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; |
-- 🏢 &nbsp; I'm currently working at [NetSoftNic]()
 - 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
 - 📝 Open Source Contributor
 - 👨🏻‍💻 I love to learn new things and ready to help others
+<!-- - 🏢 &nbsp; I'm currently working at [NetSoftNic]() -->
 
 ## Find me at 👇:
 
