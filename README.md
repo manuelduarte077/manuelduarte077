@@ -1,7 +1,7 @@
 # Manuel Duarte 🤖 
 
 - 💬 Mobile Developer
-- | *#MobileDev* | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; |
+- | *#MobileDev* | Kotlin 💜 | Flutter 💙 |
 - 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
 - 📝 Open Source Contributor
 - 👨🏻‍💻 I love to learn new things and ready to help others
@@ -21,6 +21,7 @@
 - [¿Como hacer un Deploy a Firebase Hosting?](https://dev.to/manuelduarte077/como-hacer-un-deploy-a-firebase-hosting-1d1j)
 - [Instalación de Docker en Ubuntu](https://dev.to/manuelduarte077/instalacion-de-docker-en-ubuntu-4mhf)
 - [Diccionarios en Python](https://dev.to/manuelduarte077/diccionarios-en-python-4h3n)
+
 <!-- YT:END -->
 
 And more...
@@ -29,8 +30,8 @@ And more...
 
 <p align="center">
   <a href="https://github.com/manuelduarte077">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=vue&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=buefy&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=buefy&count_private=true&hide_border=true"/>
   </a>  
 </p>
 
