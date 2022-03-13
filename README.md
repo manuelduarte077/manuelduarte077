@@ -1,21 +1,22 @@
-# Manuel Duarte 🤖 
+# Manuel Duarte 🤖
 
-- 💬 Mobile Developer
-- | *#MobileDev* | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; |
-- 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
-- 📝 Open Source Contributor
+## Software Engineer
+
+- I work as an Engineer at [Nerdify]()
+- | _#MobileDev_ | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; |
+- 📖 &nbsp; I'm currently learning [Flutter](https://github|.com/flutter/flutter)
 - 👨🏻‍💻 I love to learn new things and ready to help others
-<!-- - 🏢 &nbsp; I'm currently working at [NetSoftNic]() -->
 
 ## Find me at 👇:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manuelduarte077)
-[![DevTO](https://img.shields.io/badge/DevTO-080808?style=for-the-badge&logo=dev.to&logoColor=white)](https://twitter.com/manuelduarte077)
+[![DevTO](https://img.shields.io/badge/DevTO-080808?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manuelduarte077)
 
 ## 📚 Last Post
 
 <!-- YT:START -->
+
 - [Tuplas en Python](https://dev.to/manuelduarte077/tuplas-en-python-tuple-5e52)
 - [Learn Go in 8 minutes ](https://dev.to/manuelduarte077/learn-go-in-8-minutes-59ph)
 - [¿Como hacer un Deploy a Firebase Hosting?](https://dev.to/manuelduarte077/como-hacer-un-deploy-a-firebase-hosting-1d1j)
