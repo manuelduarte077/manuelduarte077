@@ -6,7 +6,7 @@
 
    <img height="180em" src="resources/logo.png"/>
 
-- I work as an Engineer at [Nerdify]()
+- I work as an Engineer at [Nerdify](https://github.com/nerdify)
 - _#MobileDev_ | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; | IOS 🧡 &nbsp; |
 - 📖 &nbsp; I'm currently learning [Flutter](https://github|.com/flutter/flutter)
 - 👨🏻‍💻 I love to learn new things and ready to help others
