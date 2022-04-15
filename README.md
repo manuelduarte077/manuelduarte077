@@ -2,8 +2,12 @@
 
 ## Software Engineer
 
+<!-- [nerdify_logo]: resources/logo.png -->
+
+   <img height="180em" src="resources/logo.png"/>
+
 - I work as an Engineer at [Nerdify]()
-- | _#MobileDev_ | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; |
+- _#MobileDev_ | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; | IOS 🧡 &nbsp; |
 - 📖 &nbsp; I'm currently learning [Flutter](https://github|.com/flutter/flutter)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
@@ -30,8 +34,8 @@ And more...
 
 <p align="center">
   <a href="https://github.com/manuelduarte077">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=vue&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=buefy&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
   </a>  
 </p>
 
