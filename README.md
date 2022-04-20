@@ -11,6 +11,11 @@
 - 📖 &nbsp; I'm currently learning [Flutter](https://github|.com/flutter/flutter)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
+![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
+
 ## Find me at 👇:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
