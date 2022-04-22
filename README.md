@@ -13,8 +13,8 @@
 
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-766DB2?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
 
 ## Find me at 👇:
 
