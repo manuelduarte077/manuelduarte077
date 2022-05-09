@@ -1,14 +1,14 @@
-# Manuel Duarte 🤖
+# Manuel Duarte 🧡 💚
 
-## Software Engineer
+## Software Engineer 
 
 <!-- [nerdify_logo]: resources/logo.png -->
 
    <img height="180em" src="resources/logo.png"/>
 
 - I work as an Engineer at [Nerdify](https://github.com/nerdify)
-- _#MobileDev_ | Kotlin 💜 &nbsp; | Flutter 💙 &nbsp; | IOS 🧡 &nbsp; |
-- 📖 &nbsp; I'm currently learning [Flutter](https://github|.com/flutter/flutter)
+- _#MobileDev_ | Kotlin 💜 &nbsp;| Flutter 💙 &nbsp;| Swift 🧡 &nbsp;|
+- 📖 &nbsp; I'm currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white)
