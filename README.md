@@ -1,4 +1,4 @@
-# Manuel Duarte 🧡 💙
+# Manuel Duarte 💙
 
 ## Software Engineer 
 
@@ -6,15 +6,13 @@
 
    <img height="180em" src="resources/logo.png"/>
 
-- I work as an Engineer at [Nerdify](https://github.com/nerdify)
-- _#MobileDev_ | Kotlin 💜 &nbsp;| Flutter 💙 &nbsp;| Swift 🧡 &nbsp;|
+- Worked as a Software Engineer at [Nerdify](https://github.com/nerdify)
+- _#MobileDev_ | Flutter 💙 &nbsp;|
 - 📖 &nbsp; I'm currently learning [ReactNative](https://reactnative.dev/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-766DB2?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
 
 ## Find me at 👇:
 
@@ -44,5 +42,3 @@ And more...
   </a>  
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
