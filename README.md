@@ -1,4 +1,4 @@
-# Manuel Duarte 💙 🧡 💜
+# Manuel Duarte 💙 🧡
 
 ## Software Engineer 
 
@@ -8,7 +8,7 @@
 
 - Worked as a Software Engineer at [Nerdify](https://github.com/nerdify)
 - _#MobileDev_ | Flutter 💙 &nbsp;| SwiftUI 🧡 &nbsp;|
-- 📖 &nbsp; I'm currently learning [KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html)
+- 📖 &nbsp; I'm currently learning [RN](https://reactnative.dev/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white)
