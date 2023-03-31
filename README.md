@@ -7,13 +7,14 @@
    <img height="180em" src="resources/logo.png"/>
 
 - Worked as a Software Engineer at [Nerdify](https://github.com/nerdify)
-- _#MobileDev_ | Flutter 💙 &nbsp;| SwiftUI 🧡 &nbsp;|
-- 📖 &nbsp; I'm currently learning [RN](https://reactnative.dev/)
+- _#MobileDev_ | Kotlin 💜 &nbsp;| iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
+- 📖 &nbsp; I'm currently learning [iOS](https://developer.apple.com/swift/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&e&logo=Flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-766DB2?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
 
 
 ## Find me at 👇:
