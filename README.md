@@ -2,21 +2,20 @@
 
 ## Software Engineer 
 
-<!-- [nerdify_logo]: resources/logo.png -->
-
-   <img height="180em" src="resources/logo.png"/>
-
-- Worked as a Software Engineer at [Nerdify](https://github.com/nerdify)
+- Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
-- 📖 &nbsp; I'm currently learning [iOS](https://developer.apple.com/swift/)
+- 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
+## Technologies I Work With 💻
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ## Find me at 👇:
 
