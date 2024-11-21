@@ -4,7 +4,7 @@
 
 - Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
-- 📖 &nbsp; I'm currently learning [Python](https://www.python.org/)
+- 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ## Technologies I Work With 💻
