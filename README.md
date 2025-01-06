@@ -1,19 +1,20 @@
-# Manuel Duarte 💙 🇳🇮
+# Hi there 👋
 
-## Software Engineer 
+I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about Flutter, React-Native, Native iOS, Native Android and practically everything related to front-end and mobile devices 😄.
+
 
 - Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
 - 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
-## Technologies I Work With 💻
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### Currently working with
 
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,swift,kotlin,java&theme=light)
+
+### Previously worked with
+
+![My Previous Skills](https://skillicons.dev/icons?i=cs,react,js,ts,astro&theme=light)
 
 ## Find me at 👇:
 
