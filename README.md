@@ -18,8 +18,8 @@ I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is pass
 
 ## Find me at 👇:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
-[![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/manuelduarte077)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/manuelduarte077/)
+[![X](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/manuelduarte077)
 
 ## Find my apps👇: 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/manuel-duarte/id1713428056)
