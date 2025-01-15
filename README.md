@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about Flutter, React-Native, Native iOS, Native Android and practically everything related to front-end and mobile devices 😄.
+I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about React-Native, Flutter, Native iOS, Native Android and practically everything related to front-end and mobile devices 😄.
 
 
 - Worked as a Software Engineer
@@ -10,16 +10,17 @@ I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is pass
 
 ### Currently working with
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,swift,kotlin,java&theme=light)
+![My Skills](https://skillicons.dev/icons?i=ts,react,swift,kotlin,java,firebase&theme=light)
 
 ### Previously worked with
 
-![My Previous Skills](https://skillicons.dev/icons?i=cs,react,js,ts,astro&theme=light)
+![My Previous Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,cs,astro&theme=light)
 
 ## Find me at 👇:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/manuelduarte077/)
 [![X](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/manuelduarte077)
+[![YT](https://skillicons.dev/icons?i=youtube&theme=light)](https://twitter.com/manuelduarte077)
 
 ## Find my apps👇: 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/manuel-duarte/id1713428056)
