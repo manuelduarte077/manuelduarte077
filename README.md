@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about React-Native, Flutter, Native iOS, Native Android and practically everything related to front-end and mobile devices 😄.
+I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about Flutter, Native iOS, Native Android and practically everything related to mobile devices 😄.
 
 
 - Worked as a Software Engineer
@@ -10,11 +10,11 @@ I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is pass
 
 ### Currently working with
 
-![My Skills](https://skillicons.dev/icons?i=swift,kotlin,ts,react,go,firebase,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=swift,kotlin,dart,flutter,go,firebase,&theme=dark)
 
 ### Previously worked with
 
-![My Previous Skills](https://skillicons.dev/icons?i=dart,flutter,java,astro&theme=dark)
+![My Previous Skills](https://skillicons.dev/icons?i=java,spring,ts,react,astro&theme=dark)
 
 ## Find me at 👇:
 
