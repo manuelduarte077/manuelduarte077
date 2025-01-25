@@ -10,11 +10,11 @@ I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is pass
 
 ### Currently working with
 
-![My Skills](https://skillicons.dev/icons?i=swift,kotlin,dart,flutter,py,firebase,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=swift,kotlin,ts,react,go,firebase,&theme=dark)
 
 ### Previously worked with
 
-![My Previous Skills](https://skillicons.dev/icons?i=java,spring,ts,react,astro&theme=dark)
+![My Previous Skills](https://skillicons.dev/icons?i=java,spring,dart,flutter,astro&theme=dark)
 
 ## Find me at 👇:
 
