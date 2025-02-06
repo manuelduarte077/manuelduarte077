@@ -1,20 +1,20 @@
 # Hi there 👋
 
-I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about Flutter, Native iOS, Native Android and practically everything related to mobile devices 😄.
+I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about React Native, Native iOS, Native Android and practically everything related to mobile devices 😄.
 
 
 - Worked as a Software Engineer
-- _#MobileDev_ | iOS 🧡 &nbsp;| Flutter 💙 &nbsp; 
+- _#MobileDev_ | iOS 🧡 &nbsp;| Expo ⚛️ &nbsp; 
 - 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ### Currently working with
 
-![My Skills](https://skillicons.dev/icons?i=swift,kotlin,dart,flutter,python,fastapi,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=swift,kotlin,ts,react,python,fastapi,&theme=dark)
 
 ### Previously worked with
 
-![My Previous Skills](https://skillicons.dev/icons?i=java,spring,firebase,ts,react,astro&theme=dark)
+![My Previous Skills](https://skillicons.dev/icons?i=java,spring,firebase,dart,flutter,astro&theme=dark)
 
 ## Find me at 👇:
 
