@@ -1,20 +1,33 @@
 # Hi there 👋
 
-I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about React Native, Native iOS, Native Android and practically everything related to mobile devices 😄.
+I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about Flutter, Native iOS, Native Android and practically everything related to mobile devices 😄.
 
 
 - Worked as a Software Engineer
-- _#MobileDev_ | iOS 🧡 &nbsp;| Expo ⚛️ &nbsp; 
+- _#MobileDev_ | iOS 🧡 &nbsp;| KMP 👨🏻‍💻 &nbsp; 
 - 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ### Currently working with
 
-![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,dart,flutter,firebase,&theme=dark)
+<div>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />        
+</div>
 
 ### Previously worked with
-
-![My Previous Skills](https://skillicons.dev/icons?i=cs,spring,supabase,ts,react,astro&theme=dark)
+<div>      
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />     
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />       
+</div>
 
 ## Find me at 👇:
 
