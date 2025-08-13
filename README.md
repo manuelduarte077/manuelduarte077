@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm Manuel! A software engineer based in Managua, Nicaragua 🇳🇮 who is passionate about React Native, Native iOS, Native Android and practically everything related to mobile devices 😄.
-
+I’m Manuel, a software engineer based in Managua, Nicaragua 🇳🇮, passionate about building mobile applications for both Android and iOS. I specialize in Java and Kotlin for Android, Swift for iOS, and also work with C# for API development. My true passion is continuously learning and exploring everything related to mobile technologies and native platforms
 
 - Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| KMP 👨🏻‍💻 &nbsp; 
