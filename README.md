@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Manuel, a software engineer based in Managua, Nicaragua 🇳🇮, passionate about building mobile applications for both Android and iOS. I specialize in Java and Kotlin for Android, Swift for iOS, and also work with C# for API development. My true passion is continuously learning and exploring everything related to mobile technologies and native platforms
+I’m Manuel Duarte, a Software Engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin, Java, and Swift, building high-quality native apps for Android and iOS. I also have experience developing cross-platform apps with React Native and Expo, and work with Spring Boot and PostgreSQL to create scalable backend solutions. Passionate about mobile technologies, I’m always learning and exploring new ways to deliver exceptional user experiences.
 
 - Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| KMP 👨🏻‍💻 &nbsp; 
@@ -10,20 +10,20 @@ I’m Manuel, a software engineer based in Managua, Nicaragua 🇳🇮, passiona
 ### Currently working with
 
 <div>
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />   
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" /> 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />   
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" /> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />   
 </div>
 
 ### Previously worked with
 <div>      
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />   
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />   
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />        
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
 </div>
 
 ## Find me at 👇:
@@ -36,9 +36,12 @@ I’m Manuel, a software engineer based in Managua, Nicaragua 🇳🇮, passiona
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/manuel-duarte/id1713428056)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6066797066423825901)
 
-- [NotedUp](https://app.notedup.donmanuel.dev/app)
-- [Wonder Noty App](https://app.noty.donmanuel.dev/link)
-- [NotyApp](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
+- [Lomas Club App](https://apps.apple.com/ni/app/lomas-club-app/id6470324204?l=en-GB)
+- [Todo Anotadito](https://www.donmanuel.dev/projects/todoanotadito)
+- [Cuenta Clara](https://www.donmanuel.dev/projects/cuentaclara)
+- [NotyApp](https://www.donmanuel.dev/projects/notyapp)
+- [Veerla - Guardá pelis y series](https://www.donmanuel.dev/projects/veerla)
+- [TuCambio](https://apps.apple.com/ni/app/tucambio/id6744262206?l=en-GB)
 
 ## 📚 Last Post
 
