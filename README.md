@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Manuel Duarte, a Software Engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin, Java, and Swift, building high-quality native apps for Android and iOS. I also have experience developing cross-platform apps with React Native and Expo, and work with Spring Boot and PostgreSQL to create scalable backend solutions. Passionate about mobile technologies, I’m always learning and exploring new ways to deliver exceptional user experiences.
+I’m Manuel Duarte, a Software Engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin, Java, and Swift, building high-quality native apps for Android and iOS. I also have experience developing cross-platform apps with Flutter, and work with Spring Boot and PostgreSQL to create scalable backend solutions. Passionate about mobile technologies, I’m always learning and exploring new ways to deliver exceptional user experiences.
 
 - Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| KMP 👨🏻‍💻 &nbsp; 
@@ -11,18 +11,17 @@ I’m Manuel Duarte, a Software Engineer based in Managua, Nicaragua 🇳🇮. I
 
 <div>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />   
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" /> 
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />   
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />   
 </div>
 
 ### Previously worked with
-<div>      
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />   
+<div>  
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />        
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />   
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
 </div>
 
