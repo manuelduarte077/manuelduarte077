@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Manuel Duarte, a software engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin, Java, and Swift, developing high-quality native applications for Android and iOS. I also have experience developing cross-platform applications with React Native and working with Go and PostgreSQL to create scalable backend solutions. Passionate about mobile technologies, I'm always learning and exploring new ways to deliver exceptional user experiences.
+I'm Manuel Duarte, a software engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin, and Swift, developing high-quality native applications for Android and iOS. I also have experience developing cross-platform applications with Flutter and working with Go and PostgreSQL to create scalable backend solutions. Passionate about mobile technologies, I'm always learning and exploring new ways to deliver exceptional user experiences.
 
 - Worked as a Software Engineer
 - _#MobileDev_ | iOS 🧡 &nbsp;| KMP 👨🏻‍💻 &nbsp; 
-- 📖 &nbsp; I'm currently learning [AZURE](https://azure.microsoft.com/en-us/)
+- 📖 &nbsp; I'm currently learning [GO](https://go.dev/)
 - 👨🏻‍💻 I love to learn new things and ready to help others
 
 ### Currently working with
