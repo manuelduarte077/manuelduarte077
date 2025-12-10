@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I’m Manuel Duarte, a software engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin and Swift, building high-quality native applications for Android and iOS. I also work with Go and PostgreSQL, designing scalable backend services and connecting mobile apps with solid, reliable server architectures. Passionate about mobile technologies, I’m always learning, improving, and exploring new ways to deliver exceptional user experiences.
-
+I’m Manuel Duarte, a software engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin and Swift, building high-quality native applications for Android and iOS. I also work with Python and PostgreSQL, designing scalable backend services and connecting mobile apps with solid, reliable server architectures. Passionate about mobile technologies, I’m always learning, improving, and exploring new ways to deliver exceptional user experiences.
 
 - Worked as a Software Engineer
 - #MobileDev | iOS 🧡  | Android | KMP 👨🏻‍💻
-- 📖 &nbsp; I'm currently learning [GO](https://go.dev/)
+- 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 👨🏻‍💻 Always ready to learn and help others
 
 ### Currently working with
@@ -14,8 +13,8 @@ I’m Manuel Duarte, a software engineer based in Managua, Nicaragua 🇳🇮. I
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" /> 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />     
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-plain.svg" />      
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />   
 </div>
 
 ### Previously worked with
