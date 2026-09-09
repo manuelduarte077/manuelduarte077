@@ -1,58 +1,60 @@
-# Hello 👋
+# Hello, I’m Manuel Duarte 👋
 
-I’m Manuel Duarte, a software engineer based in Managua, Nicaragua 🇳🇮. I specialize in Kotlin and Swift, building high-quality native applications for Android and iOS. I also work with C# and PostgreSQL, designing scalable backend services and connecting mobile apps with solid, reliable server architectures. Passionate about mobile technologies, I’m always learning, improving, and exploring new ways to deliver exceptional user experiences.
+I’m a software engineer based in Managua, Nicaragua 🇳🇮, specializing in native mobile development.
 
+I build Android applications with **Kotlin and Jetpack Compose**, and iOS applications with **Swift and SwiftUI**. I also develop reliable backend services with **Laravel and PostgreSQL**, connecting mobile products to scalable APIs and production-ready infrastructure.
 
-- Worked as a Software Engineer
-- #MobileDev | iOS 🧡  | Android | KMP 👨🏻‍💻
-- 📖 &nbsp; I'm currently learning [KMP](https://kotlinlang.org/docs/multiplatform.html)
-- 👨🏻‍💻 Always ready to learn and help others
+Currently, I’m deepening my experience with **Kotlin Multiplatform (KMP)** to share business logic across platforms while preserving native user experiences.
 
-### Currently working with
+- 📱 Native Android and iOS developer
+- 🤖 Kotlin · Jetpack Compose · Java
+- 🍎 Swift · SwiftUI · UIKit
+- 🔗 Kotlin Multiplatform
+- ⚙️ Laravel · PostgreSQL
+- 🌐 TypeScript · React · Inertia.js
+- 💡 Always learning, building, and helping others
 
-<div>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />       
-</div>
+## Core stack
 
-## Find me at 👇:
+<p>
+  <img width="42" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="42" alt="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+  <img width="42" alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img width="42" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="42" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</p>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/manuelduarte077/)
-[![X](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/manuelduarte077)
-[![YT](https://skillicons.dev/icons?i=youtube&theme=light)](https://twitter.com/manuelduarte077)
+### Additional experience
 
-## Find my apps👇: 
+<p>
+  <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="42" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="42" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</p>
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
+[![X](https://img.shields.io/badge/X-@donmanueldev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/donmanueldev)
+
+## My apps
+
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/manuel-duarte/id1713428056)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6066797066423825901)
 
-- [Lomas Club App](https://apps.apple.com/ni/app/lomas-club-app/id6470324204?l=en-GB)
 - [Todo Anotadito](https://www.donmanuel.dev/projects/todoanotadito)
-- [Cuenta Clara](https://www.donmanuel.dev/projects/cuentaclara)
-- [NotyApp](https://www.donmanuel.dev/projects/notyapp)
-- [Veerla - Guardá pelis y series](https://www.donmanuel.dev/projects/veerla)
-- [TuCambio](https://apps.apple.com/ni/app/tucambio/id6744262206?l=en-GB)
-
-## 📚 Last Post
-
-<!-- YT:START -->
-
-- [Learn Go in 8 minutes ](https://www.donmanuel.dev/posts/learn-go-in-8-minutes)
-- [Diccionarios en Python](https://www.donmanuel.dev/posts/que-es-un-diccionario-de-datos)
-- [Tuplas en Python](https://dev.to/manuelduarte077/tuplas-en-python-tuple-5e52)
-- [¿Como hacer un Deploy a Firebase Hosting?](https://dev.to/manuelduarte077/como-hacer-un-deploy-a-firebase-hosting-1d1j)
-- [Instalación de Docker en Ubuntu](https://dev.to/manuelduarte077/instalacion-de-docker-en-ubuntu-4mhf)
-<!-- YT:END -->
+- [Cuenta Clara](https://cuentaclara.momotombo.dev/)
+- [TuCambio](https://apps.apple.com/ni/app/tucambio/id6744262206)
 
 And more...
 
-## My GitHub stats
+## GitHub stats
 
 <p align="center">
-  <a href="https://github.com/manuelduarte077">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelduarte077&show_icons=true&theme=buefy&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
-  </a>  
+  <a href="https://github.com/donmanueldev">
+    <img height="180" alt="Manuel's GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=donmanueldev&show_icons=true&theme=buefy&count_private=true" />
+    <img height="180" alt="Manuel's most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=donmanueldev&layout=compact&langs_count=8&theme=buefy" />
+  </a>
 </p>
