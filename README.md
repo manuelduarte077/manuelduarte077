@@ -1,30 +1,30 @@
 # Hello, I’m Manuel Duarte 👋
 
-I’m a **Senior Android Engineer** based in Managua, Nicaragua 🇳🇮.
+I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮.
 
-I build reliable mobile products with **Kotlin, Jetpack Compose, Coroutines and modern Android architecture**. My professional experience includes digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery.
+I’m also a **co-founder and COO at Momotombo**, where we build products including **Plun, QLNK and MiLiga**.
 
-My secondary engineering path is backend development with **Java, Spring Boot and PostgreSQL**, allowing me to understand and build the services that support mobile products.
+I build mobile products primarily with **React Native and Expo**, and web products and backend APIs with **Laravel, PHP and PostgreSQL**. I use **Java and Android** for current work and native capabilities, and **Python and AI** for new product opportunities. My work spans digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery.
 
 ## Current focus
 
-- 📱 Native Android development with Kotlin and Jetpack Compose
-- 🔄 Coroutines, Flow and lifecycle-aware concurrency
-- 🧱 MVVM, MVI and unidirectional data flow
-- 🗄️ Room, REST APIs and offline-first workflows
-- 🧪 Unit, integration and UI testing
-- 🚀 Gradle, CI/CD and production delivery
-- 🔗 Kotlin Multiplatform as a complementary capability
-- ☕ Java and Spring Boot for backend services
+- 📲 Cross-platform mobile development with React Native and Expo
+- 🌐 Web products and backend APIs with Laravel, PHP and PostgreSQL
+- ☕ Java and Android for current work and native capabilities
+- 🐍 Python and AI for new product opportunities
+- 🧱 Maintainable application architecture and reliable integrations
+- 🧪 Unit, integration and UI testing; CI/CD and production delivery
 
 ## Core stack
 
 <p>
-  <img width="42" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img width="42" alt="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-  <img width="42" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+  <img width="42" alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="42" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+  <img width="42" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img width="42" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="42" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img width="42" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </p>
 
@@ -34,7 +34,7 @@ My secondary engineering path is backend development with **Java, Spring Boot an
 
 Production radio application for Android and iOS, built with React Native and Expo.
 
-I developed and delivered both applications, including live audio streaming and custom native integrations written in Swift and Kotlin. The project also includes Apple CarPlay support for listening to the station from compatible vehicles.
+I developed and delivered both applications, including live audio streaming and custom native integrations for iOS and Android. The project also includes Apple CarPlay support for listening to the station from compatible vehicles.
 
 The production source code is maintained in a private repository.
 
@@ -54,9 +54,9 @@ The application is available on Google Play and includes a public product websit
 
 ### Mombodoro
 
-A desktop focus timer built with **Kotlin and Compose Desktop**.
+A desktop focus timer built with **Compose Desktop**.
 
-Mombodoro includes configurable focus sessions, task management, notifications and native macOS integration through a Swift menu-bar host. Its timer domain, task persistence, UI behavior and Kotlin–Swift protocol are covered by automated tests.
+Mombodoro includes configurable focus sessions, task management, notifications and native macOS integration through a Swift menu-bar host. Its timer domain, task persistence, UI behavior and native macOS integration are covered by automated tests.
 
 [View repository](https://github.com/donmanueldev/mombodoro) · [View website](https://donmanueldev.github.io/mombodoro/)
 
@@ -64,7 +64,7 @@ Mombodoro includes configurable focus sessions, task management, notifications a
 
 An open-source native charting package for NativePHP Mobile.
 
-Android renderers use **Kotlin and Jetpack Compose Canvas**, while iOS renderers use Swift Charts. The package includes automated tests, CI, accessibility support, security documentation and published releases.
+Android renderers use **Jetpack Compose Canvas**, while iOS renderers use Swift Charts. The package includes automated tests, CI, accessibility support, security documentation and published releases.
 
 [View repository](https://github.com/donmanueldev/nativephp-charts)
 
@@ -72,7 +72,7 @@ Android renderers use **Kotlin and Jetpack Compose Canvas**, while iOS renderers
 
 A native Android productivity application for creating notes, managing tasks, organizing content by category and tracking completed work.
 
-Built with **Kotlin, Jetpack Compose, Room, Hilt, Coroutines and Flow**, following MVVM and clean architecture principles. The application supports Material 3, light and dark themes, local persistence and automated tests.
+Built with **Jetpack Compose, Room, Hilt, Coroutines and Flow**, following MVVM and clean architecture principles. The application supports Material 3, light and dark themes, local persistence and automated tests.
 
 NotyApp is published on Google Play and does not collect or share user data.
 
@@ -97,12 +97,21 @@ NotyApp is published on Google Play and does not collect or share user data.
 
 ## Additional experience
 
-I also have experience with **Swift, SwiftUI, UIKit, Laravel and TypeScript**, primarily supporting existing products and cross-platform integrations.
+I also have experience with **Swift, SwiftUI, UIKit, Spring Boot and TypeScript**, supporting existing products and native integrations.
 
-My current specialization remains **Android engineering with Kotlin and Jetpack Compose**.
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
 [![Website](https://img.shields.io/badge/Website-donmanuel.dev-24292F?style=flat&logo=google-chrome&logoColor=white)](https://www.donmanuel.dev)
 [![X](https://img.shields.io/badge/X-@donmanueldev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/donmanueldev)
+
+
+## My GitHub stats
+
+<p align="center">
+  <a href="https://github.com/donmanueldev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=donmanueldev&show_icons=true&theme=buefy&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=donmanueldev&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
+  </a>  
+</p>
